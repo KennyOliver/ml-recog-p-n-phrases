@@ -1,6 +1,8 @@
-# ml-recognising-positive-negative-sentences
+# ml-recog-p-n-phrases
 
-![image](https://www.codefactor.io/repository/github/KennyOliver/ml-recognising-positive-negative-sentences/badge?style=for-the-badge)
+![image](https://www.codefactor.io/repository/github/KennyOliver/ml-recog-p-n-phrases/badge?style=for-the-badge)
+
+[![](https://repl.it/badge/github/KennyOliver/ml-recog-p-n-phrases)](https://repl.it/@KennyOliver/ml-recog-p-n-phrases)
 
 :warning: DISCLAIMER: Not my work - from a tutorial
 

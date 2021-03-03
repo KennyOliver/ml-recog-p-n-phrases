@@ -1,6 +1,7 @@
 # ml-recog-p-n-phrases
 
 ![image](https://www.codefactor.io/repository/github/KennyOliver/ml-recog-p-n-phrases/badge?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/KennyOliver/ml-recog-p-n-phrases?style=for-the-badge)
 
 [![](https://repl.it/badge/github/KennyOliver/ml-recog-p-n-phrases)](https://repl.it/@KennyOliver/ml-recog-p-n-phrases)
 
